@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": "7be6",
+      "title": "This is a new Post",
+      "content": "This is some new content"
+    },
+    {
+      "id": "2440",
+      "title": "My Post ",
+      "content": "All about me! My Favorite subject"
+    },
+    {
+      "id": "3c4a",
+      "title": "I love to sleep",
+      "content": "This is a sleepy description"
+    },
+    {
+      "id": "4604",
+      "title": "The joy of snoring",
+      "content": "This is about snoring"
+    },
+    {
+      "id": "12a0",
+      "title": "new post",
+      "content": "new content"
+    },
+    {
+      "id": "4147",
+      "title": "ben",
+      "content": "ben"
+    },
+    {
+      "id": "3ae5",
+      "title": "hahahaha",
+      "content": "hahahahah"
+    }
+  ]
+}
